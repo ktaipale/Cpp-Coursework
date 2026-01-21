@@ -1,0 +1,10 @@
+Pelissä tarkoituksena on saada liikutettua punaiset sekä vihreät
+nappulat vastakkaiselle puolelle pelilautaa. Ideana on saavuttaa
+Tämä mahdollisimman vähillä siirroilla minimin ollessa 30 siirtoa.
+Peli ilmoittaa käytettyjen siirtojen määrän ja pelissä on mahdollista
+aloittaa alusta virheen tehdessään. Turhien eli paikallaan tehtyjen siirtojen
+tekemisestä on tehty mahdotonta. Pelissä on värinvaihto-ominaisuus,
+joka toimii pelin ollessa aloitustilassa. Aloitustilaan pääsee painamalla
+reset-nappulaa. Värinvaihto toimii painamalla "Change Color" nappia ja sen
+jälkeen valitsemalla kaksi eri väriä. Pelistä löytyy myös ajastin, jolla
+pelaaja voi mitata peliin kulunutta aikaa.

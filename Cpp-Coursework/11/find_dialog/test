@@ -1,0 +1,14 @@
+Rakenna ensin kuvan mukainen dialogi.
+Kun olet luonut projektin edellisten
+materiaaliosioiden ohjeiden mukaan,
+Qt generoi osan luokkien koodista valmiiksi.
+Tiedostolistauksessa vasemmalla näkyy kohta
+Forms ja sen alla tiedosto mainwindow.ui.
+Klikkaamalla tämän tiedoston nimeä, pääset
+Qt Designeriin, jossa voit rakentaa dialogin
+raahaamalla sopivat käyttöliittymäkomponentit
+sopiville paikoille. Valitsemalla jonkin komponentin
+(joko piirtoalueelta tai oikealla olevasta
+Object-listasta) ja painamalla hiiren oikeanpuoleista
+nappia saat näkyviin valikon. Valitse valikosta Change
+objectName antaaksesi objekteille Huom-laatikossa kerrotut nimet.

@@ -1,0 +1,14 @@
+# Build files
+*.o
+*.obj
+Makefile
+*.stash
+
+# Qt
+*.pro.user
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
